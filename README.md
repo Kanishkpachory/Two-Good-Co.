@@ -93,6 +93,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Kanishkpachory - GitHub Profile
-Project Link: https://github.com/Kanishkpachory/Two-Good-Co
+1. Kanishkpachory - GitHub Profile
+   
+2. Project Link: https://github.com/Kanishkpachory/Two-Good-Co
 
